@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /megane999
+exclude: ['README.md']
